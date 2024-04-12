@@ -1,0 +1,94 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+ }
+  
+ td{
+     padding: 50px;
+     border-style: solid;
+     background-color: aliceblue;
+    
+  
+ }
+  
+ .tabela {
+       margin-left:20% ;
+      
+ }
+  
+ th {
+    
+     font-weight: 1000;
+     height: 70px;
+     background-color:#7f619a;
+     border: none;
+
+  
+ }
+  
+ table,
+ th,
+ td {
+     border: 1px solid;
+     text-align: center;
+     margin: 2%;
+     
+    padding: 20px;
+    
+ }
+  
+ #mark {
+     display: flex;
+     justify-content: center;
+     background-color: #38040e;
+     align-items: center;
+ }
+  
+ .select {  
+     margin: 2%;
+    text-align: center;
+  
+ }
+  
+  
+ #aux{
+     text-align: center;
+     margin-top: 10px;
+  
+ }
+ header{
+     padding: 2%;
+ }
+ select, input, button{
+     background-color:#c796e9;
+     color: #fff;
+     padding: 10px;
+     border-radius: 20px;
+ }
+ #veiculos{
+     margin-top:10px ;
+     background-color: #38040e;
+     padding: 20px;
+     align-items: center;
+    
+ }
+  
+ #aux.button:visited{
+     text-decoration: none;
+    
+  
+ }
+  
+ h1{
+     padding: 15px;
+     border-radius: 20px;
+     color: white;
+ }
+ .text{
+    text-align: justify;
+    margin-left: 350px;
+    color: white;
+ }
+ 
+  
+ 
